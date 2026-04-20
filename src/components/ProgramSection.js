@@ -3,11 +3,10 @@ import Link from "next/link";
 
 const programs = [
     {
-        title: "GenZ at the workplace",
-        src: "/training-consultancy-program-GenZ.png",
-        alt: "GenZ at the workplace",
-        programId: "gen-z-workplace"
-    },
+       title: "Sell Strong in Turbulent Times",
+        src: "/sell-stronger-turbulent-times-sales-training-dubai.png",
+        alt: "Sell Stronger in Turbulent Times - Sales Training Dubai",
+        programId: "sell-strong-turbulent-times"    },
     {
         title: "Experiential Learning Workshop",
         src: "/training-consultancy-program-experiential-learning.png",
@@ -15,11 +14,10 @@ const programs = [
         programId: "experiential-learning"
     },
     {
-        title: "EI IN THE AGE OF AI",
-        src: "/training-consultancy-program-EI-AI.jpg",
-        alt: "Emotional Intelligence in the age of AI",
-        programId: "ei-ai"
-    },
+                title: "Crisis Management",
+        src: "/crisis-management-leadership-training-dubai.png",
+        alt: "Crisis Management Leadership Training Dubai",
+        programId: "crisis-management"    },
 ];
 
 export default function ProgramsSection() {
