@@ -119,7 +119,6 @@ export default function CustomProgramsPage() {
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
             />
             <div className="mx-auto max-w-7xl px-6 md:px-8 py-10 md:py-14">
-                {/* Page heading */}
                 <h1 className="text-[28px] md:text-[34px] font-semibold text-slate-900">
                     Custom Training Programs Dubai
                 </h1>
@@ -163,6 +162,16 @@ export default function CustomProgramsPage() {
                             description:
                                 "What if you could move beyond survival and consistently exceed your targets? This program reveals the four proven growth strategies, territory and account management best practices, and the secret formula for double-digit selling. By applying these tools, you'll learn to maximize results and join the top-performing ranks. Unlock the strategies that double your sales and transform your results.",
                         },
+// ========== NEW PROGRAM 1 ✅ ==========
+                        {
+                            id: "sell-strong-turbulent-times",
+                            title: "Sell Strong in Turbulent Times",
+                            subtitle: "Protect Revenue. Unlock Opportunity. Outperform Under Pressure.",
+                            image: "/sell-stronger-turbulent-times-sales-training-dubai.png",
+                            description:
+                                "Protect Revenue. Unlock Opportunity. Outperform Under Pressure. Sales Training for Commercial Teams & Frontliners.",
+                        },
+// ========== END NEW PROGRAM 1 ==========
                     ]}
                 />
 
@@ -225,6 +234,16 @@ export default function CustomProgramsPage() {
                             description:
                                 "Coaching is more than telling — it's about asking, listening, and empowering. This program gives leaders a clear model for coaching that builds trust, enhances skills, and improves engagement. Learn when to coach, how to give feedback, and how to accelerate development. Turn coaching into your most powerful leadership tool.",
                         },
+// ========== NEW PROGRAM 2 ✅ ==========
+                        {
+                            id: "crisis-management",
+                            title: "Crisis Management",
+                            subtitle: "Lead With Clarity. Protect What Matters. Grow When Others Don't.",
+                            image: "/crisis-management-leadership-training-dubai.png",
+                            description:
+                                "Lead With Clarity. Protect What Matters. Grow When Others Don't. Crisis Management for Senior Leaders & Executives.",
+                        },
+// ========== END NEW PROGRAM 2 ==========
                     ]}
                 />
 
