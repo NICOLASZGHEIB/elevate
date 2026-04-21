@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Home -->
+  <url>
+    <loc>https://www.elevate-mena.com/</loc>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/training-consultancy-Company-Dubai-MENA.png</image:loc>
+      <image:title>Corporate Training & Consultancy Company in Dubai and MENA</image:title>
+      <image:caption>Elevate MENA provides leadership, sales, and productivity training for organizations across the MENA region.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/mapf.png</image:loc>
+      <image:title>Elevate MENA Global Presence Map</image:title>
+      <image:caption>Map showing Elevate MENA’s operations across the Middle East and Africa.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://www.elevate-mena.com/about</loc>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/founder.png</image:loc>
+      <image:title>Elevate MENA Founder</image:title>
+      <image:caption>Meet the founder of Elevate MENA, a corporate training consultancy based in Dubai.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/quote.jpg</image:loc>
+      <image:title>Elevate MENA Training Philosophy</image:title>
+      <image:caption>Inspirational quote representing Elevate MENA’s leadership and growth philosophy.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Programs -->
+  <url>
+    <loc>https://www.elevate-mena.com/programs</loc>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/training-consultancy-program-El-Al.jpg</image:loc>
+      <image:title>El Al Training Program</image:title>
+      <image:caption>Leadership and sales transformation case study by Elevate MENA.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/training-consultancy-program-engagement-transformation-culture.jpg</image:loc>
+      <image:title>Engagement and Transformation Culture Program</image:title>
+      <image:caption>Organizational engagement and culture transformation program by Elevate MENA.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/training-consultancy-program-GenZ.png</image:loc>
+      <image:title>Gen Z Leadership Program</image:title>
+      <image:caption>Future-ready leadership training for Gen Z professionals by Elevate MENA.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Global Presence -->
+  <url>
+    <loc>https://www.elevate-mena.com/global-presence</loc>
+    <image:image>
+      <image:loc>https://www.elevate-mena.com/map.png</image:loc>
+      <image:title>Elevate MENA Global Map</image:title>
+      <image:caption>Visual representation of Elevate MENA’s footprint across MENA and Africa.</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

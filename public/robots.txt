@@ -1,0 +1,12 @@
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.elevate-mena.com
+
+# Sitemap location
+Sitemap: https://www.elevate-mena.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
